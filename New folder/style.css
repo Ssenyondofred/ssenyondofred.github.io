@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    
+}
+section{
+    text-align: center;
+    background-color: greenyellow;
+    font-size: larger;
+    font-style: inherit;
+    font-display: 50;
+    color: tomato;
+}
